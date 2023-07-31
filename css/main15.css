@@ -1,0 +1,165 @@
+.wrap{
+    margin: 50px 0 0 600px;
+    width: 550px;
+    height: 800px;
+}
+/*.p1{
+    padding: 20px 0 0 0;
+    box-sizing: border-box;
+    height: 160px;
+    background-color: #edfcfc;
+}*/
+#name{
+    width: 500px;
+    height: 30px;
+    margin: 0 20px 0 20px;
+}
+#day{
+    width: 100px;
+    height: 30px;
+    margin: 0 0 0 20px;
+}
+#oy{
+    width: 100px;
+    height: 30px;
+    margin: 0 0 0 10px;
+}
+#year{
+    width: 280px;
+    height: 30px;
+    margin: 0 0 0 10px;
+}
+label[type=name]{
+    margin: 0 0 0 20px;
+}
+/*.p2{
+    height: 60px;
+    background-color: #edfcfc;
+    padding: 10px 0 0 20px;
+    box-sizing: border-box;
+    font-size: 13px;
+}*/
+#digit{
+    width: 280px;
+    height: 30px;
+    margin: 0 0 0 12px;
+}
+/*.p3{
+    height: 350px;
+    background-color: #edfcfc;
+    padding: 10px 0 0 5px;
+    box-sizing: border-box;
+}*/
+#us{
+    width: 230px;
+    height: 30px;
+    margin: 5px 0 0 20px;
+    float: left;
+}
+#un{
+    width: 230px;
+    height: 30px;
+    margin: 5px 0 0 20px;
+}
+.w1{
+    margin: -18px 0 0 0;
+}
+#ua{
+    margin: 0 0 0 270px;
+}
+#ph{
+    width: 230px;
+    height: 30px;
+    margin: 5px 0 0 20px;
+    float: left;
+}
+.w2{
+    margin: -18px 0 0 0;
+}
+#sa{
+    margin: 0 0 0 270px;
+}
+#ev{
+    width: 230px;
+    height: 30px;
+    margin: 5px 0 0 20px;
+}
+#ad{
+    width: 230px;
+    height: 30px;
+    margin: 5px 0 0 20px;
+    float: left;
+}
+.w3{
+    margin: -18px 0 0 0;
+}
+#sd{
+    margin: 0 0 0 270px;
+}
+#ad1{
+    width: 230px;
+    height: 30px;
+    margin: 5px 0 0 20px;
+}
+#city{
+    width: 230px;
+    height: 30px;
+    margin: 5px 0 0 20px;
+    float: left;
+}
+.w4{
+    margin: -18px 0 0 0;
+}
+#st{
+    margin: 5px 0 0 20px;
+    width: 100px;
+    height: 30px;
+    float: left;
+}
+#wa{
+    margin: 5px 0 0 270px;
+}
+#cd{
+    width: 100px;
+    height: 30px;
+    margin: 5px 0 0 20px
+}
+#wd{
+    margin: 5px 0 0 400px;
+}
+.w5{
+    margin: -18px 0 0 0;
+}
+/*.p4{
+    height: 60px;
+    background-color: #edfcfc;
+    padding: 20px 0 0 20px;
+    box-sizing: border-box;
+}*/
+#iw{
+    margin: 0 10px 0 30px;
+    width: 20px;
+    height: 20px;
+}
+#su{
+    width: 20px;
+    height: 20px;
+    margin: 0 10px 0 0;
+}
+/*.p5{
+    height: 60px;
+    background-color: #edfcfc;
+    padding: 20px 0 0 20px;
+    box-sizing: border-box;
+}*/
+#add{
+    width: 20px;
+    height: 20px;
+    margin: 0 10px 0 0;
+}
+.kotta{
+    border:1px solid black;
+    background-color: #edfcfc;
+    box-shadow:0 0 10px rgba(80,80,80,0.5); 
+
+}

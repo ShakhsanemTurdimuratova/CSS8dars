@@ -1,0 +1,19 @@
+.text1{
+    border: 1px solid white;
+    text-align:left;
+    width: 300px;
+    display: inline-block;
+}
+.text2{
+    width: 300px;
+    display: inline-block;
+}
+input[type=submit]{
+    background-color: #45bd42;
+    color: white;
+    border: 1px solid #45bd42;
+    border-radius: 2px;
+}
+input{
+    position: relative;
+}

@@ -1,0 +1,40 @@
+body{
+    background-color: antiquewhite;
+}
+.wrap{
+    width: 1200px;
+    margin: 100px ;
+}
+.form-group{
+    border: 1px solid black;
+    width: 200px;
+    height: 250px;
+    background-color: midnightblue;
+    text-align: center;
+}
+input[type=ss]{
+    display: inline-block;
+    background-color: dimgrey;
+    color: white;
+    width: 60px;
+    height: 20px;
+    text-align: center;
+    margin: -10px;
+}
+input[type=submit]{
+    background-color: #45bd42;
+    color: white;
+    width: 60px;
+    height: 20px;
+    text-align: center;
+    margin: 5px;
+    display: inline-block;
+}
+.lll{
+    margin: 15px;
+}
+input[type=sub]{
+    background-color: #45bd42;
+    color: white;
+    text-align: center;
+}

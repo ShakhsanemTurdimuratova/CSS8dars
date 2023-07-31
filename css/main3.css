@@ -1,0 +1,48 @@
+body{
+    background-color: blue;
+}
+.text{
+    border: 1px solid blue;
+    width: 200px;
+    height: 250px;
+    margin: 100px;
+}
+.p{
+    color: white;
+    text-align: center;
+}
+.bir{
+    margin: 12px;
+
+}
+.ikki{
+    margin: 12px;
+}
+.uch{
+    margin: 12px;
+}
+input[type=submit]{
+    display: block;
+    width: 170px;
+    margin: 12px;
+    background-color: deepskyblue;
+    color: white;
+}
+.besh  h6{
+    text-align: center;
+    color: white;
+    width: 130px;
+    height: 50px;
+    margin: 12px;
+}
+.olti{
+    color: white;
+    width:200px;
+    height: 50px;
+    padding: -10px;
+    margin: -10px;
+}
+.yetti{
+    color: white;
+    text-align: center;
+}
